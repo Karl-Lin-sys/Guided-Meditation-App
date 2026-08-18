@@ -1,0 +1,6 @@
+{
+  "name": "Guided Meditation App",
+  "description": "Generate custom meditation sessions with unique visuals and voiceovers using Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
